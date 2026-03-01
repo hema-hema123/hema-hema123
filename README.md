@@ -1,37 +1,67 @@
 <h1 align="center">Hi 👋, I'm Hema</h1>
-<h3 align="center">Computer Science Student | Software Developer | AI Enthusiast</h3>
+<h3 align="center">Software Developer • AI Enthusiast • Problem Solver</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Backend+Developer;AI+Builder;Always+Learning&center=true&width=500&height=45">
+</p>
 
 ---
 
-### 👩‍💻 About Me
+## 🚀 About Me
 - 🎓 CS Undergraduate (2027)
-- 💻 Interested in Backend, AI & Systems
-- 🌍 Building real-world tech solutions
-- 🚀 Currently working on AI & networking projects
+- 💻 Passionate about AI, Networking & Backend Systems
+- 🌍 Building real-world intelligent applications
+- 🚀 Love solving real-world problems with technology
 
 ---
 
-### 🚀 Projects
-🔹 Climora — Urban Heat Intelligence Dashboard  
-🔹 Deep Packet Inspection System  
-🔹 Instagram Audience Persona Analyzer  
-🔹 TaskPilot — Secure AI Agent Framework  
+## 🌐 Connect with me
+<p align="center">
+<a href="https://linkedin.com/in/hemas123"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:hs19055769@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://hema-portfolio.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" /></a>
+</p>
 
 ---
 
-### 🛠️ Tech Stack
-**Languages:** Python, C++, JavaScript  
-**Frameworks:** React, Node.js, FastAPI  
-**Tools:** Git, Docker, AWS, MongoDB  
-**Concepts:** Networking, APIs, System Design  
+## 🛠 Languages & Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,fastapi,mongodb,mysql,docker,aws,git,linux,vscode" />
+</p>
 
 ---
 
-### 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/hemas123  
-- Portfolio: https://hema-portfolio.vercel.app  
-- GitHub: https://github.com/hema-hema123  
+## 🚀 Featured Projects
+
+🔹 **Climora — Urban Heat Intelligence Dashboard**  
+AI-powered geospatial dashboard for climate-smart city planning.
+
+🔹 **Deep Packet Inspection System**  
+High-performance network traffic analyzer using TLS SNI inspection.
+
+🔹 **Instagram Audience Persona Analyzer**  
+FastAPI analytics tool for audience segmentation & insights.
+
+🔹 **TaskPilot — Secure AI Agent Framework**  
+Security-first AI automation system with command risk control.
 
 ---
 
-⭐ *Always learning. Always building.*
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=hema-hema123&show_icons=true&theme=tokyonight" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hema-hema123&layout=compact&theme=tokyonight" height="170">
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=hema-hema123&theme=tokyonight" />
+</p>
+
+---
+
+⭐ **Always learning. Always building.**
