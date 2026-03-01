@@ -75,12 +75,16 @@
 ✔ Data analytics & reporting pipeline  
 
 ---
-
 ## 📊 GitHub Stats
 
-![Hema's GitHub stats](https://github-readme-stats.vercel.app/api?username=hema-hema123&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hema-hema123&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hema-hema123&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hema-hema123&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+--------
 ## 🔥 Contribution Streak
 
 <p align="center">
