@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Hema</h1>
+<h3 align="center">Computer Science Student | Software Developer | AI Enthusiast</h3>
 
-<!--
-**hema-hema123/hema-hema123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👩‍💻 About Me
+- 🎓 CS Undergraduate (2027)
+- 💻 Interested in Backend, AI & Systems
+- 🌍 Building real-world tech solutions
+- 🚀 Currently working on AI & networking projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Projects
+🔹 Climora — Urban Heat Intelligence Dashboard  
+🔹 Deep Packet Inspection System  
+🔹 Instagram Audience Persona Analyzer  
+🔹 TaskPilot — Secure AI Agent Framework  
+
+---
+
+### 🛠️ Tech Stack
+**Languages:** Python, C++, JavaScript  
+**Frameworks:** React, Node.js, FastAPI  
+**Tools:** Git, Docker, AWS, MongoDB  
+**Concepts:** Networking, APIs, System Design  
+
+---
+
+### 📫 Connect With Me
+- LinkedIn: https://linkedin.com/in/hemas123  
+- Portfolio: https://hema-portfolio.vercel.app  
+- GitHub: https://github.com/hema-hema123  
+
+---
+
+⭐ *Always learning. Always building.*
