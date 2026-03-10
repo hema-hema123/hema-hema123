@@ -24,7 +24,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;AI+Builder;Backend+Developer;Networking+Enthusiast;Always+Learning&center=true&width=520&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;AI+Builder;Networking+Enthusiast;Always+Learning&center=true&width=520&height=45">
 </p>
 
 ---
